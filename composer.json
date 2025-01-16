@@ -1,5 +1,5 @@
 {
-  "name": "josh-taylor/sage-svg",
+  "name": "adrianmomorales/sage-svg-sage9-php8",
   "type": "package",
   "license": "MIT",
   "description": "WordPress package to enable a blade directive to use SVG images inline with Sage 9",
