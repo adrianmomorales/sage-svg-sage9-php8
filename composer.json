@@ -19,7 +19,6 @@
     ]
   },
   "minimum-stability": "dev",
-    "prefer-stable": true,
   "require": {
     "adrianmomorales/blade-svg-sage9-php8": "dev-master"
   }
