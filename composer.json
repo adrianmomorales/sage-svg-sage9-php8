@@ -19,6 +19,6 @@
     ]
   },
   "require": {
-    "nothingworks/blade-svg": "dev-master"
+    "adrianmomorales/blade-svg-sage9-php8": "dev-master"
   }
 }
